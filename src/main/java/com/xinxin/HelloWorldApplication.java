@@ -1,4 +1,4 @@
-package com.xinxin.helloworld;
+package com.xinxin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
